@@ -41,5 +41,7 @@ yarn-error.log*
 next-env.d.ts
 
 # Custom
+package-lock.json
 dev-server.log
-.vs/
+.vs
+.vscode
