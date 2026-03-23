@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "echo '' > dev-server.log && next dev -H 0.0.0.0 >> dev-server.log 2>&1",
+    "dev": "echo '' > dev-server.log && next dev --turbo -H 0.0.0.0 >> dev-server.log 2>&1",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
